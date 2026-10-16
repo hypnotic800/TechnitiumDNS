@@ -1,0 +1,11 @@
+https://big.oisd.nl/domainswild2
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/gambling-onlydomains.txt
+https://hagezi-mirror.dnsbunker.org/wildcard/tlts-onlydomains.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/doh-vpn-proxy-bypass-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.apple-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tv-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/pro.plus-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/tif-onlydomains.txt
+https://raw.githubusercontent.com/hagezi/nrd/main/domains/nrd7.txt
